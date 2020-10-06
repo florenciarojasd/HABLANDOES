@@ -280,7 +280,7 @@ font-weight: 200;
 	grid-template-rows: 100%;
 	align-items: center;
 	pointer-events: none;
-	text-shadow: 4px 4px #f1f1f1;
+	text-shadow: 2px 2px #f1f1f1;
 }
 
 .js .content {
